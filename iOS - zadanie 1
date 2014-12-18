@@ -1,0 +1,15 @@
+//Mateusz ZiÄ™tek
+
+class PointOfInterest {
+var name: String
+init(){
+name = "ZUT"
+}
+var latitude: Float = 2.1
+var longitude: Float = 3.2
+var address: String = "Zolnierska"
+}
+
+let somePointOfInterest = PointOfInterest()
+
+println("\(somePointOfInterest.name) - (\(somePointOfInterest.latitude), \(somePointOfInterest.longitude)) - \(somePointOfInterest.address)")
