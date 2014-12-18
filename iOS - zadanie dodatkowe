@@ -1,0 +1,27 @@
+//Mateusz ZiÄ™tek
+
+struct Coordinate {
+    var latitude: Float
+    init() {
+        latitude = 2.3
+    }
+    var longitude:Float = 3.2
+}
+
+struct Address {
+    var street: String
+    init(){
+        street = "Zolnierska"
+        
+    }
+    var city:String = "Szczecin"
+    var country:String = "Polska"
+}
+class PointOfInterest {
+    let coordinate = Coordinate()
+    let address = Address()
+}
+
+let somePointOfInterest = PointOfInterest()
+
+println("(\(somePointOfInterest.coordinate.latitude),\(somePointOfInterest.coordinate.longitude)) - \(somePointOfInterest.address.street), \(somePointOfInterest.address.city), \(somePointOfInterest.address.country) ")
