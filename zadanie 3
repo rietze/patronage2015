@@ -1,0 +1,77 @@
+E01. Wyświetlanie mapy 2D/ izometria (opcjonalnie)
+
+Jako użytkownik chcę wyświetlić mapy 2D, aby wyświetlić szczegółowe informacje na temat punktów gastronomicznych, zabytków, rowerów miejskich, przystanków komunikacji publicznej, nazw ulic.
+
+E02. Augmented Reality - wyświetlanie info na obrazie z kamery
+
+Jako użytkownik chcę wyświetlić informacje na obrazie z kamery, aby zobaczyć opinie o obiekcie.
+
+E03. Zarządzanie danymi użytkownika - rejestracja/login
+
+Jako użytkownik chcę uzyskać dostęp do aplikacji, aby przeglądać mapę.
+
+E04. Ujednolicenie Modelu danych
+
+Jako programista chcę ujednolicić model danych, aby aplikacja była wydajniejsza i szybsza.
+
+E05. Filtrowanie danych. - odległość - dostępność - rating - typ obiektu - przedział cenowy
+
+Jako użytkownik chcę filtrować dane, aby wyświetlić miejsca, które chciałbym zwiedzić.
+
+E06. Nawigacja 2D/3D/AR - trasy i propozycje tras
+
+Jako użytkownik chcę wyznaczyć trasę, aby jak najszybciej dotrzeć do wybranego celu.
+
+E07. Social Media - FB - Twitter/Twitpic - Flickr - dodawanie zdjęć via Geotag - iCal events
+
+Jako użytkownik chcę udostępnić miejsce na Social Media, aby polecić znajomym fajne miejsca.
+Jako użytkownik chcę opublikować zdjęcie na Social Media, aby zachęcić innych użytkowników do zwiedzania tego miejsca. 
+ 
+E08. Dodawanie danych przez użytkownika - social media - komentarze - media - trasy i atrakcje
+
+Jako użytkownik chcę dodać komentarz, aby polecić lub odradzać miejsce innym użytkownikom.
+Jako administrator chcę dodawać danych przez użytkownika, aby wyświetlić informacje przez użytkownika o obiekcie.
+
+E09. Super-search
+
+Jako użytkownik chcę używać Super-search, aby wyszukać archiwalne frazy.
+
+E10. Achievements
+
+Jako użytkownik chcę ocenić lokal/miejsce, aby ułatwić innym klientom w wyborze tego lokalu/miejsca.
+
+E11. Panel moderatora (backend)
+
+Jako moderator chcę otworzyć panel moderatora, aby zmodyfikować listę miejsc/aplikację.
+
+E12. Google Glass
+
+Jako użytkownik chcę używać Google Glass, aby rozpoznać miejsce* (nazwa, komentarze, ocena) 
+*używanie Augumented Reality
+
+E13. Metro W8
+
+Jako programista chcę używać styl metro W8, aby aplikacja była unifikacja interfejsu na smartphone i na komputerze.
+
+E14. Mapy historyczne
+
+Jako użytkownik chcę wyświetlić mapę historyczną aby dowiedzieć się o zabytki miasta i gdzie one się znajdują.
+
+
+E15. Informacje szczegółowe o obiekcie
+
+Jako użytkownik chcę wyświetlić szczegółowe dane o obiekcie, aby dokładnie zapoznać się z tym obiektem, czy jest ciekawy dla innych użytkowników.
+ 
+E16. Baza Danych: - zabytki - restauracje/lokale gastronomiczne - ZDiTM - Szczeciński Rower
+Jako pasażer chcę korzystać z rozkładu jazdy ZDiTM, aby dowiedzieć się za ile minut będzie autobus/tramwaj.
+Jako użytkownik chcę wyświetlić sieć stacji BIKE_S, aby skorzystać z roweru miejskiego.
+Jako użytkownik chcę wyświetlić sieć lokali gastronomicznych, aby odwiedzić miejsce.
+Jako turysta chcę wyświetlić zabytki, aby zobaczyć walory miasta.
+
+Pytania do Product Ownera:
+1. Czy wymagana jest rejestracja, aby przeglądać aplikację? Czy można przeglądać aplikację bez rejestracji?
+2. Jak udostępnić polecane miejsce na Social Media? np. facebook
+3. Czy jest możliwość korzystania z środków komunikacji publicznej np. autobus, tramwaj czy rower miejski?
+4.Czy będą wyświetlane informacje na temat cen biletów komunikacji miejskiej oraz cen korzystania z roweru miejskiego BIKE_S?
+5. Czy użytkownik może wyszukać wg miejsca, np. hotel, restauracja, akademik czy inne? 
+6. Czy będą udostępnione rozkłady miejskiej ZDiTM ? 
